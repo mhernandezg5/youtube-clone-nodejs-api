@@ -39,6 +39,7 @@
   - Upload channel avatar
 
 ## Frontend Repo
+## PRUEBA ASEGURAMIENTO
 
 Frontend was developed with vue js and vuetify [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
 
